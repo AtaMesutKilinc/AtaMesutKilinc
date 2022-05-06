@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
-<h3 align="center">I am learning Java and React.js. I am passionate about Artificial Intelligence. I am a Mechatronics Engineer</h3>
+<h3 align="center"> I am a Mechatronics Engineer.<br/>I am learning Java and Reactjs.<br/>I am passionate about Artificial Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atamesutkilinc&label=Profile%20views&color=0e75b6&style=flat" alt="atamesutkilinc" /> </p>
 
