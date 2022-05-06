@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
 <h3 align="center">I am a Mechatronics Engineer. <br/>I am learning Java and Reactjs.<br/> I am passionate about Artificial Intelligence. </h3>
 
+<p align="center">
+  <img width="460" height="300" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
+</p>
 
-<p><img align="center" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp" alt="atamesutkilinc" /></p>
 - 🌱 I’m currently learning **Java , React.js**
 
 - 📫 How to reach me **katamesut@gmail.com**
@@ -32,8 +34,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atamesutkilinc&show_icons=true&locale=en&layout=compact" alt="atamesutkilinc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atamesutkilinc&show_icons=true&locale=en" alt="atamesutkilinc" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=atamesutkilinc&show_icons=true&locale=en&layout=compact" alt="atamesutkilinc" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atamesutkilinc&show_icons=true&locale=en" alt="atamesutkilinc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atamesutkilinc&theme=default" alt="atamesutkilinc" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atamesutkilinc&theme=default" alt="atamesutkilinc" /></p>
 
