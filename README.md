@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/ata98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ata98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ata-mesut-k%c4%b1l%c4%b1n%c3%a7-54655a177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ata-mesut-k%c4%b1l%c4%b1n%c3%a7-54655a177/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/atamesutkilinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/atamesutkilinc" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/atamesutkilinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@atamesutkilinc" height="30" width="40" /></a>
 <a href="https://medium.com/@katamesut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@katamesut" height="30" width="40" /></a>
 </p>
 
