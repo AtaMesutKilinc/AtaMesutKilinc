@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ata98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ata98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ata mesut kılınç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ata mesut kılınç" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atamesutkilinc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ata mesut kılınç" height="30" width="40" /></a>
 <a href="https://kaggle.com/atamesutkilinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atamesutkilinc" height="30" width="40" /></a>
 <a href="https://medium.com/@katamesut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@katamesut" height="30" width="40" /></a>
 </p>
