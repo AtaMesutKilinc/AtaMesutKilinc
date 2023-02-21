@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata</h1>
-<h3 align="center">I am a Jr. Java Developer and Mechatronics Engineer. <br/>I am learning Java and Reactjs. I am trying to improve myself even more.<br/> I am passionate about Artificial Intelligence.:smirk: </h3>
+<h3 align="center">I am a Java Developer and Mechatronics Engineer. <br/>I am learning Java and Reactjs. I am trying to improve myself even more.<br/> I am passionate about Artificial Intelligence.:smirk: </h3>
 
 <p align="center">
   <img width="460" height="300" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
